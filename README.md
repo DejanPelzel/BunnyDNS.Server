@@ -4,8 +4,6 @@ BunnyDNS is an ultra lightweight DNS server library written in C# with simplicit
 ### Work in progress
 Please be aware that the BunnyDNS library is currently still a work in progress and still requires quite a lot of work and refractoring before being stable. 
 
-The network code especially is extremely messy and is there mainly for testing purposes. It needs to be rewritten when the time comes.
-
 This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com
 
 
