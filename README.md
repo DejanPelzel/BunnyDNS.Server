@@ -1,4 +1,4 @@
-# BunnyDNS - A lightweight .NET DNS Server Library
+# BunnyDNS - A lightweight C# .NET GEO DNS Server Library
 BunnyDNS is an ultra lightweight DNS server library written in C# with simplicity, performance and ease of use in mind.
 
 ### Work in progress
